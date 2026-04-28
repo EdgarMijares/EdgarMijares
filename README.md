@@ -81,3 +81,4 @@ Secretario General de Innovación · FETED (2017–2019) · BitCamp · GDG InCod
 [LinkedIn](https://www.linkedin.com/in/ecmc/) · [X](https://x.com/lolovive2) · [ecmc.me](https://ecmc.me)
 
 </sub>
+
