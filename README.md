@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="Edgar Mijares — Arquitecto de software · Gladsheim Group" width="100%" />
+  <img src="./assets/banner.svg" alt="Plataformas B2B desde los fundamentos — Gladsheim Group · Yggda · Apitecto" width="100%" />
 </p>
 
 <p align="center">
