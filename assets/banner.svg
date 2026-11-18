@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Edgar Mijares — Arquitecto de software · Gladsheim Group">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#111c33"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#2f81f7" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2f81f7" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#2f81f7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#grid)"/>
+  <ellipse cx="640" cy="160" rx="520" ry="200" fill="url(#glow)"/>
+
+  <!-- Blueprint layers motif -->
+  <g fill="none" stroke="#2f81f7" stroke-width="1.5" stroke-opacity="0.35">
+    <rect x="96" y="96" width="128" height="128" rx="6"/>
+    <rect x="120" y="120" width="80" height="80" rx="4"/>
+    <rect x="144" y="144" width="32" height="32" rx="2" fill="#2f81f7" fill-opacity="0.25"/>
+    <rect x="1056" y="96" width="128" height="128" rx="6"/>
+    <path d="M1056 160H1184M1120 96V224"/>
+  </g>
+
+  <text x="640" y="150" text-anchor="middle" fill="#e6edf3"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="56" font-weight="700" letter-spacing="1">Edgar Mijares</text>
+  <text x="640" y="200" text-anchor="middle" fill="#8b949e"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="22" letter-spacing="3">ARQUITECTO DE SOFTWARE · GLADSHEIM GROUP</text>
+  <rect x="600" y="222" width="80" height="3" rx="1.5" fill="#2f81f7"/>
+</svg>

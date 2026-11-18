@@ -1,6 +1,21 @@
-# Edgar Mijares
+<h1 align="center">Hola, soy Edgar Mijares 👋</h1>
 
-### Arquitecto de software · Fundador de Gladsheim Group
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Arquitecto+de+software" alt="Arquitecto de software" />
+</p>
+
+<p align="center">
+  <img src="./assets/banner.svg" alt="Edgar Mijares — Arquitecto de software · Gladsheim Group" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ecmc/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/lolovive2"><img src="https://img.shields.io/badge/@lolovive2-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/edgarmijares_pss"><img src="https://img.shields.io/badge/edgarmijares__pss-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://ecmc.me"><img src="https://img.shields.io/badge/ecmc.me-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ecmc.me" /></a>
+</p>
+
+---
 
 Construyo plataformas B2B y ventures independientes. Diseño sistemas desde los fundamentos: arquitectura limpia, patrones, infraestructura.
 
@@ -78,7 +93,7 @@ Secretario General de Innovación · FETED (2017–2019) · BitCamp · GDG InCod
 
 <sub>
 
-[LinkedIn](https://www.linkedin.com/in/ecmc/) · [X](https://x.com/lolovive2) · [ecmc.me](https://ecmc.me)
+[LinkedIn](https://www.linkedin.com/in/ecmc/) · [X](https://x.com/lolovive2) · [Instagram](https://www.instagram.com/edgarmijares_pss) · [ecmc.me](https://ecmc.me)
 
 </sub>
 
